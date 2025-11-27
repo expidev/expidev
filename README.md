@@ -17,7 +17,7 @@ me in case you want to have additional information about me.  You are welcome to
 - **Skills:** Frontend development, backend development,database management, and IA.
 
 ## Projects
-- Here is my [portfolio](https://vonjy.onrender.com/)
+- Here is my [portfolio](https://harivonjy.me/)
 - The projects I am proud of:
   * Build a chamber of commerce website.
   * Build a weather app that shows the current weather at any locations
