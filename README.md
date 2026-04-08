@@ -22,7 +22,7 @@ me in case you want to have additional information about me.  You are welcome to
   * Build a chamber of commerce website.
   * Build a weather app that shows the current weather at any locations
   * Build a blog website
-  * 
+  
 ## Let's Connect!
 
 - Here is my [LinkedIn](https://www.linkedin.com/in/nasandratra-harivonjy) profile  
